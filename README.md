@@ -18,7 +18,7 @@ This project is proposed for the TDI capstone project.
 ![Variables to be tested](/Images/diff_var.png)
 
 ## End Users of the Product
-* Policy makers &#8594; Local & global governing institutions
+* Policy makers &#8594; Local and global governing institutions
 * United Nations
 * World Ineuality Lab
 
