@@ -22,7 +22,7 @@ This project is proposed for the TDI capstone project.
 </p>
 ## Data Prepration   
 The following image summarized the data sources, size, tools and techniques used to modify data for explatory data analysis.
-![Data Analysis](/Images/Behnoush_Golchinfar_TDI_share_ppt.png)
+![Data Preparation](/Images/Behnoush_Golchinfar_TDI_share_ppt.png)
 ## Data Analysis
 10 Countries with the highest and lowest gini index averaged over the past 10 years are selected. 
 The below bar graphs show two extreme of population in regards to education in these countries.
