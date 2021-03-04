@@ -16,10 +16,11 @@ This project is proposed for the TDI capstone project.
 
 ## Different Parameters to Investigate
 ![Variables to be tested](/Images/diff_var.png)
+
 ## End Users of the Product
-<p align="left">
-  <img width="400" height="400" src='/Images/end_users.png'>
-</p>
+* Policy makers &#8594; Local & global governing institutions
+* United Nations
+* World Ineuality Lab
 
 ## Data Prepration   
 The following image summarized the data sources, size, tools and techniques used to modify data for explatory data analysis.
@@ -29,9 +30,7 @@ The following image summarized the data sources, size, tools and techniques used
 10 Countries with the highest and lowest gini index averaged over the past 10 years are selected. 
 The below bar graphs show two extreme of population in regards to education in these countries.
 ![Data Analysis](/Images/data_analysis_graph.png)
-<p align="left">
-  <img width="400" height="400" src='/Images/data_analysis_graph.png'>
-</p>
+
 
 ## Next Steps
 * Study other involved parameters
