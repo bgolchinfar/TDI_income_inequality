@@ -4,3 +4,5 @@ This project is proposed for the TDI capstone project.
 ## Problem Statement
 * Get an insight of how to minimize the income inequality?
 * Reducing Income Inequality among the 17 sustainable development goals (call for action for all countries)
+*![flowchart]
+* No sustainable development and a better planet for all if people are excluded from the chance of a better life
