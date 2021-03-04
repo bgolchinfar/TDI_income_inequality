@@ -13,6 +13,7 @@ This project is proposed for the TDI capstone project.
 <p align="center">
   <img width="450" height="100" src='/Images/most_eff_sol.png'>
 </p>
+
 ## Different Parameters to Investigate
 ![Variables to be tested](/Images/diff_var.png)
 ## End Users of the Product
