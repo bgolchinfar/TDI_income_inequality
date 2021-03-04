@@ -27,6 +27,7 @@ The following image summarized the data sources, size, tools and techniques used
 10 Countries with the highest and lowest gini index averaged over the past 10 years are selected. 
 The below bar graphs show two extreme of population in regards to education in these countries.
 ![Data Analysis](/Images/data_analysis_graph.png)
+
 ## Next Steps
 * Study other involved parameters
 * Implement machine learning algorithm to the correlated parameters
