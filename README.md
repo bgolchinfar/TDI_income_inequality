@@ -16,5 +16,5 @@ This project is proposed for the TDI capstone project.
 ## Different Parameters to Investigate
 ![Variables to be tested](/Images/diff_var.png)
 ## End Users of the Product
-![Variables to be tested](/Images/end_users.png)
+![End Users](/Images/end_users.png)
 
