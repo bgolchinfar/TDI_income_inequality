@@ -5,7 +5,7 @@ This project is proposed for the TDI capstone project.
 * Get an insight of how to minimize the income inequality?
 * Reducing Income Inequality among the 17 sustainable development goals (call for action for all countries)
 * <p align="center">
-  <img width="460" height="300" src='/Images/flowchart_prob_stat.JPG'>
+  <img width="460" height="300" src='/Images/flowchart_prob_stat.png'>
 </p>
 
 * No sustainable development and a better planet for all if people are excluded from the chance of a better life
