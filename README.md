@@ -23,7 +23,7 @@ This project is proposed for the TDI capstone project.
 * World Ineuality Lab
 
 ## Data Prepration   
-The following image summarized the data sources, size, tools and techniques used to modify data for explatory data analysis.
+The following image summarizes the data sources, size, tools and techniques used to modify data for exploratory data analysis.
 ![Data Preparation](/Images/Behnoush_Golchinfar_TDI_share_ppt.png)
 
 ## Data Analysis
@@ -34,6 +34,6 @@ The below bar graphs show two extreme of population in regards to education in t
 
 ## Next Steps
 * Study other involved parameters
-* Implement machine learning algorithm to the correlated parameters
+* Implement machine learning algorithms to the correlated parameters
 * Predict the effect of each parameter based on the available data 
-* Make an interactive dashboard for the costomers
+* Make an interactive dashboard for the customers
