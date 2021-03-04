@@ -1,4 +1,4 @@
-# Minimizing the World Income Inequality: Influential P arameters
+# Minimizing the World Income Inequality: Influential Parameters
 This project is proposed for the TDI capstone project.
 
 ## Problem Statement
